@@ -20,7 +20,6 @@ const currentTrip = {
 
 // Elements from HTML
 
-
 const routeSelect = document.querySelector(".Route select");
 const paymentForm = document.querySelector("form");
 
