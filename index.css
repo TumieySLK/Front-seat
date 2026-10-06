@@ -1,0 +1,55 @@
+body {
+    background-color: #e6e6e6;
+    font-family: Arial, sans-serif;
+    color: #404e3b;
+}
+
+.navbar {
+    border-bottom: 4px solid #bac8b1;
+    color: #404e3b;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.nav-text {
+    color: #404e3b;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+.Route {
+    max-width: 300px;
+    margin: 0 auto;
+   
+}
+
+
+form {
+    max-width: 300px;
+    margin: 0 auto;
+    
+}
+
+.card {
+    margin-bottom: 15px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+#seatsPaid, #seatsLeft{
+    color: rgb(0, 132, 255)
+    
+}
+
+#totalFares{
+    color:rgb(4, 192, 4)
+}
+
+#totalChange{
+    color:red
+}
+
+#paymentslist, #changelist {
+    text-align: left;
+}
